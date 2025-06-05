@@ -1,4 +1,4 @@
-# Dog behaviour tracking MVP
+# Dog Behaviour Tracking MVP
 
 ## 1. Pre-process video to downsample video
 e.g every 6th frame for 5 FPS
