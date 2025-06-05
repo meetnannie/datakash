@@ -4,7 +4,7 @@
 e.g every 6th frame for 5 FPS
 
 ## 2. Dog object detection 
-locate dog bounding box and track in video (YOLO/mobilenet)
+Locate dog bounding box and track in video (YOLO/mobilenet)
 Crop bounding box (for pose estimation only)
 
 ## 3. Dog attention prediction
