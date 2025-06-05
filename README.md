@@ -1,7 +1,7 @@
 # Dog Behaviour Tracking MVP
 
 ## 1. Pre-process video to downsample video
-e.g every 6th frame for 5 FPS
+e.g every 10 FPS
 
 ## 2. Dog object detection 
 Locate dog bounding box and track in video (YOLO/mobilenet)
